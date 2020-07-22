@@ -1,1 +1,2 @@
 I am entering the username
+I have entered the password
